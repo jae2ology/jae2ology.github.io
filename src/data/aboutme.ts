@@ -20,7 +20,7 @@ export const aboutMe: AboutMe = {
   institution: "Georgia Southern University",
   // Note that links work in the description
   description:
-    "I am a 3rd year student majoring in computer science and software engineering (double major), at Georgia Southern University. I want to create autonomous, assistive robot systems capable of reasoning, decision-making, learning, and human connection. That goal is huge and difficult. So, my current focus is creating a robot capable of making proactive assistance decisions based on multiple methods! :)",
+    "I am a 3rd year student majoring in computer science and software engineering (double major) at Georgia Southern University. I want to create autonomous, assistive robot systems capable of reasoning, decision-making, learning, and human connection. That goal is huge and difficult. So, my current focus is creating a robot capable of making proactive assistance decisions based on multiple methods! :)",
   email: "zj02031@georgiasouthern.edu",
   imageUrl:
     "https://drive.google.com/file/d/14_q8vE0IjGKWIebMkocHqMJIv0Z7piu0/view?usp=sharing",
