@@ -5,7 +5,10 @@ export interface AboutMe {
   description: string;
   email: string;
   imageUrl?: string;
+  blogUrl?: string;
   cvUrl?: string;
+  googleScholarUrl?: string;
+  twitterUsername?: string;
   githubUsername?: string;
   linkedinUsername?: string;
   funDescription?: string; // Gets placed in the left sidebar
