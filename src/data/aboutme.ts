@@ -18,17 +18,17 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jae Jackson",
+  name: "Jae Jackson 💛",
   title: "3rd Year Undergraduate Student",
   institution: "Georgia Southern University",
   // Note that links work in the description
   description:
-    "I am a 3rd year student majoring in computer science and software engineering (double major) at Georgia Southern University. I want to create autonomous, assistive robot systems capable of reasoning, decision-making, learning, and human connection. That goal is huge and difficult. So, my current focus is creating a robot capable of making proactive assistance decisions based on multiple methods! :)",
+    "I am a 3rd year student majoring in computer science and software engineering (double major) at Georgia Southern University. 👩🏽‍💻 I want to create autonomous, assistive robot systems capable of reasoning, decision-making, learning, and human connection. That goal is huge and difficult. So, my current focus is creating a robot capable of making proactive assistance decisions based on multiple methods! :)",
   email: "zj02031@georgiasouthern.edu",
   imageUrl:
-    "https://drive.google.com/file/d/14_q8vE0IjGKWIebMkocHqMJIv0Z7piu0/view?usp=sharing",
+    "https://ibb.co/67bH9vV0",
   githubUsername: "jae2ology",
-  linkedinUsername: "jae jackson",
+  linkedinUsername: "jacksonjae",
   cvUrl: "https://drive.google.com/file/d/1rcIxYMMMhYYWxrA6GsSTXKoC66nmC1_s/view?usp=sharing",
   institutionUrl: "https://www.georgiasouthern.edu/",
   // altName: "",
