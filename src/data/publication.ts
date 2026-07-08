@@ -13,7 +13,7 @@ export interface Publication {
 
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
-  {
+  /*{
     year: "2024",
     conference: "NeurIPS",
     title: "Scalable Causal Discovery in High-Dimensional Time Series",
@@ -28,4 +28,5 @@ export const publicationData: Publication[] = [
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
   },
+  */
 ];
