@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "I am a 3rd year student majoring in computer science and software engineering (double major) at Georgia Southern University. 👩🏽‍💻 I want to create autonomous, assistive robot systems capable of reasoning, decision-making, learning, and human connection. That goal is huge and difficult. So, my current focus is creating a robot capable of making proactive assistance decisions based on multiple methods! :)",
   email: "zj02031@georgiasouthern.edu",
   imageUrl:
-    "https://ibb.co/67bH9vV0",
+    "https://i.ibb.co/wFCSGJ3h/IMG-8530.jpg",
   githubUsername: "jae2ology",
   linkedinUsername: "jacksonjae",
   cvUrl: "https://drive.google.com/file/d/1rcIxYMMMhYYWxrA6GsSTXKoC66nmC1_s/view?usp=sharing",
