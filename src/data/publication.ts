@@ -14,7 +14,7 @@ export interface Publication {
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
-    year: "2024",
+    /* year: "2024",
     conference: "NeurIPS",
     title: "Scalable Causal Discovery in High-Dimensional Time Series",
     authors: "Jane Smith, Sarah Johnson, Yue Zhang",
@@ -27,13 +27,6 @@ export const publicationData: Publication[] = [
     award: "🏆 Best Paper Award",
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
-  },
-  {
-    year: "2023",
-    conference: "ICML",
-    title: "Robust Causal Discovery Under Distribution Shift",
-    authors: "Jane Smith, Xue Chen, Sarah Johnson",
-    paperUrl: "https://arxiv.org/abs/2302.13095",
-    codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    */
   },
 ];
