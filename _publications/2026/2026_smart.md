@@ -1,7 +1,7 @@
 ---
 title:          "Real-Time Proactive Robot Assistance with Household Tasks via HIRR Sequence Models and Adaptive LLM Reasoning"
 date:           2026-09-08 00:01:00 +0800
-# selected:       true
+selected:       true
 pub:            "International Conference on Human-Robot-Interaction (HRI)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
