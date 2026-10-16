@@ -62,6 +62,20 @@ experience:
     position: Peer Tutor
     date: Dec. 2024 - Nov. 2025
 
+leadership:
+  - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
+    position: Engineering Ambassador
+    date: Apr. 2025 - Present
+  - name: Girls Who Code
+    logo: /assets/images/badges/gwc.png
+    position: Founding President of Chapter
+    date: Dec. 2024 - Present
+  - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
+    position: Southern Ambassador
+    date: Sep. 2024 - Apr. 2025
+
 awards:
   - name: Cornell University's Break Through Tech Fellowship
     date: 2026
