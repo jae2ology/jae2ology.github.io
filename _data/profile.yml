@@ -26,6 +26,7 @@ portrait_caption: >-
 
 education:
   - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
     position: >-
       B.S. in Computer Science & B.S. in Software Engineering <br/>
       Honors College
@@ -33,24 +34,31 @@ education:
 
 experience:
   - name: Data Science, Artificial Intelligence, and Cybersecurity (DAC) Lab
+    logo: /assets/images/badges/dac_lab.png
     position: Robotics Software Engineer / Undergraduate Researcher
     date: Aug. 2026 - Present
   - name: Anote.ai (Break Through Tech)
+    logo: /assets/images/badges/anote.png
     position: AI Engineer Sprintern
     date: Aug. 2026 - Present
   - name: Confidential Client
+    logo: /assets/images/badges/work.png
     position: Software Engineer
     date: Dec. 2025 - Jul. 2026
   - name: Georgia Southern University McNair Summer Experience (MSRP)
+    logo: /assets/images/badges/georgia_southern.png
     position: Undergraduate Researcher
     date: May 2026 - Jul. 2026
   - name: Capital One
+    logo: /assets/images/badges/capital_one.png
     position: Second-Year Tech Summit Participant
     date: Jul. 2025 - Aug. 2025
   - name: Tech Corps
+    logo: /assets/images/badges/tech_corps.png
     position: Techie Camp Instructor
     date: May 2025 - Jul. 2025
   - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
     position: Peer Tutor
     date: Dec. 2024 - Nov. 2025
 
