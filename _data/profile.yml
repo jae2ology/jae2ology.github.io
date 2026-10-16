@@ -1,37 +1,3 @@
-primary_name: "Jae Jackson"
-secondary_name: ""
-navbar_name: "Jae Jackson"
-
-positions:
-  - name: Robotics Software Engineer
-  - name: Data Science, Artificial Intelligence, and Cybersecurity (DAC) Lab @ Georgia Southern University
-
-email: "jaejackson18jj@gmail.com"
-cv_link: https://drive.google.com/file/d/1mCvxDsCmwyKoBoiSBcc6puoAwX4uENB_/view?usp=sharing
-github: jae2ology
-linkedin: jacksonjae
-
-short_bio_text_justify: false
-short_bio: >-
-  <p>
-    Hello! I am an undergraduate Computer Science and Software Engineering student at Georgia Southern University!
-  </p>
-  <p>
-    I enjoy doing research on proactive robotic systems, human-robot interaction, and machine learning. I am an Honors College member, a McNair Scholar, a Cornell Break Through Tech AI Fellow, and an Engineering Ambassador.
-  </p>
-
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo of Jae Jackson.
-
-education:
-  - name: Georgia Southern University
-    logo: /assets/images/badges/georgia_southern.png
-    position: >-
-      B.S. in Computer Science & B.S. in Software Engineering <br/>
-      Honors College
-    date: Aug. 2024 - May 2028
-
 experience:
   - name: Data Science, Artificial Intelligence, and Cybersecurity (DAC) Lab
     logo: /assets/images/badges/dac_lab.png
@@ -41,6 +7,14 @@ experience:
     logo: /assets/images/badges/anote.png
     position: AI Engineer Sprintern
     date: Aug. 2026 - Present
+  - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
+    position: Engineering Ambassador (Leadership)
+    date: Apr. 2025 - Present
+  - name: Girls Who Code
+    logo: /assets/images/badges/gwc.png
+    position: Founding President of Chapter (Leadership)
+    date: Dec. 2024 - Present
   - name: Confidential Client
     logo: /assets/images/badges/work.png
     position: Software Engineer
@@ -53,6 +27,10 @@ experience:
     logo: /assets/images/badges/capital_one.png
     position: Second-Year Tech Summit Participant
     date: Jul. 2025 - Aug. 2025
+  - name: Georgia Southern University
+    logo: /assets/images/badges/georgia_southern.png
+    position: Southern Ambassador (Leadership)
+    date: Sep. 2024 - Apr. 2025
   - name: Tech Corps
     logo: /assets/images/badges/tech_corps.png
     position: Techie Camp Instructor
@@ -61,31 +39,3 @@ experience:
     logo: /assets/images/badges/georgia_southern.png
     position: Peer Tutor
     date: Dec. 2024 - Nov. 2025
-
-leadership:
-  - name: Georgia Southern University
-    logo: /assets/images/badges/georgia_southern.png
-    position: Engineering Ambassador
-    date: Apr. 2025 - Present
-  - name: Girls Who Code
-    logo: /assets/images/badges/gwc.png
-    position: Founding President of Chapter
-    date: Dec. 2024 - Present
-  - name: Georgia Southern University
-    logo: /assets/images/badges/georgia_southern.png
-    position: Southern Ambassador
-    date: Sep. 2024 - Apr. 2025
-
-awards:
-  - name: Cornell University's Break Through Tech Fellowship
-    date: 2026
-  - name: 2nd Place Paulson College Research Symposium Award
-    date: 2026
-  - name: Georgia Southern University's Dr. Todd Deal Rising Star Award
-    date: 2025
-  - name: Dr. John Nolen Student Government Association Award
-    date: 2025
-  - name: Dean's List
-    date: 2024 - 2025
-  - name: Eagle Scholar Award
-    date: 2024
