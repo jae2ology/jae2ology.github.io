@@ -8,7 +8,6 @@ date: 2026-10-20 00:00:00 +0800
     <ul class="list-unstyled mb-1">
         {% for item in site.data.profile.projects %}
         <li class="media mb-3">
-            <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
             <div class="media-body">
                 <div class="font-weight-bold">
                     {% if item.link %}
