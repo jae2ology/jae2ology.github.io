@@ -91,21 +91,18 @@ awards:
 
 projects:
   - name: Genetic Breeding & Mutation Engine
-    logo: /assets/images/project-icon.png
     desc: Multi-generational genetic simulation engine inspired by Mewgenics modeling stat inheritance, class lineage, and dynamic mutation algorithms.
     tech: Python, Genetic Algorithms, Probability & Statistics
     link: https://github.com/jae2ology/mewgenics_genetic_sim
     date: Oct 2026
 
   - name: AI-Powered RAG Document Search Engine
-    logo: /assets/images/project-icon.png
     desc: Privacy-focused local Retrieval-Augmented Generation pipeline using Ollama LLM APIs and vector embeddings for semantic Q&A across PDFs with exact page citations.
     tech: RAG, Ollama, Vector Embeddings, Streamlit, Python
     link: https://github.com/jae2ology/rag_document_searcher
     date: Oct 2026
 
   - name: Nimble Chess
-    logo: /assets/images/project-icon.png
     desc: Real-time multiplayer web app with an AI opponent driven by an LSTM model trained on over 100,000 grandmaster games.
     tech: React, Tailwind CSS, Socket.io, LSTM, PyTorch
     link: https://github.com/GeorgiaSouthernCS/2026-spring-team-project-repo-nimble-chess/tree/main/Nimble-Chess
